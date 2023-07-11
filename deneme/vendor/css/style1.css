@@ -1,0 +1,40 @@
+.dv1 {
+	background:none ;
+	color: white;
+	height: 519px;
+	width: 25%;
+	border-radius: 0px  25px 50px 0px;
+	transition: 0.25s;
+}
+.dv1:hover {
+	background-color: black;
+	width: 75%;
+	transition: 0.25s;
+}
+
+.dv2 {
+	background:none ;
+	color: white;
+	height: 519px;
+	width: 25%;
+	border-radius: 25px  0px 0px 50px;
+	transition: 0.25s;
+}
+.dv2:hover {
+	background-color: black;
+	width: 75%;
+	transition: 0.25s;
+}
+.txt {
+
+	color:  white;
+	background: none;
+	border-radius:25px ;
+	transition: 0.25s;
+	
+}
+.txt:hover {
+	background-color: white;
+	color: black;
+	transition: 0.25s;
+}
